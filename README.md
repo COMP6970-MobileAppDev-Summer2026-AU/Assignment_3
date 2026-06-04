@@ -1,6 +1,6 @@
 # Favorite Explorer - by Jahidul Arafat
 ### Assignment 3 — State & Architecture
-### COMP 6910 — Mobile Applications Development
+### COMP 6970 — Mobile Applications Development
 
 ---
 
@@ -16,18 +16,18 @@
 
 ## 👨‍💻 Developer Information
 
-| Field | Details |
-|---|---|
-| **Name** | Jahidul Arafat |
-| **Username** | JAJI |
+| Field | Details                                                           |
+|---|-------------------------------------------------------------------|
+| **Name** | Jahidul Arafat                                                    |
+| **Username** | JAJI                                                              |
 | **Title** | PhD Student, Department of Computer Science & Software Engineering |
-| **Fellowship** | Presidential & Woltosz Graduate Research Fellow |
-| **Industry** | Former L3 Senior Solution Architect (MLOps), Oracle (Singapore) |
-| **Course** | COMP 6910 — Mobile Applications Development |
-| **Module** | M3 — State & Architecture |
-| **Assignment** | Assignment 3 |
-| **Track** | Flutter / Dart |
-| **Version** | 1.0.0+1 |
+| **Fellowship** | Presidential & Woltosz Graduate Research Fellow                   |
+| **Industry** | Former L3 Senior Solution Architect (MLOps), Oracle    |
+| **Course** | COMP 6970 — Mobile Applications Development                       |
+| **Module** | M3 — State & Architecture                                         |
+| **Assignment** | Assignment 3                                                      |
+| **Track** | Flutter / Dart                                                    |
+| **Version** | 1.0.0+1                                                           |
 
 ---
 
