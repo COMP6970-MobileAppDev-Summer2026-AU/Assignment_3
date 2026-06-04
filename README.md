@@ -1,23 +1,33 @@
-# Favorite Explorer - by Jahidul Arafat
+# 🌟 Favorite Explorer
 ### Assignment 3 — State & Architecture
-### COMP 6970 — Mobile Applications Development
+### COMP 6910 — Mobile Applications Development
+
+---
+
+## 🎬 App Demo Video
+
+[![Favorite Explorer — App Demo](https://img.youtube.com/vi/WmT89d04cpU/maxresdefault.jpg)](https://youtu.be/WmT89d04cpU)
+
+> **▶️ [Watch Full Demo on YouTube](https://youtu.be/WmT89d04cpU)**
+>
+> Complete walkthrough: Home → Onboarding → Browse (List/Grid/Compact) → Favorites → Notes → Share → Settings
 
 ---
 
 ## 👨‍💻 Developer Information
 
-| Field | Details                                                            |
-|---|--------------------------------------------------------------------|
-| **Name** | Jahidul Arafat                                                     |
-| **Username** | JAJI                                                               |
+| Field | Details |
+|---|---|
+| **Name** | Jahidul Arafat |
+| **Username** | JAJI |
 | **Title** | PhD Student, Department of Computer Science & Software Engineering |
-| **Fellowship** | Presidential & Woltosz Graduate Research Fellow                    |
-| **Industry** | Former L3 Senior Solution Architect (MLOps), Oracle (Singapore)    |
-| **Course** | COMP 6970 — Mobile Applications Development                        |
-| **Module** | M3 — State & Architecture                                          |
-| **Assignment** | Assignment 3                                                       |
-| **Track** | Flutter / Dart                                                     |
-| **Version** | 1.0.0+1                                                            |
+| **Fellowship** | Presidential & Woltosz Graduate Research Fellow |
+| **Industry** | Former L3 Senior Solution Architect (MLOps), Oracle (Singapore) |
+| **Course** | COMP 6910 — Mobile Applications Development |
+| **Module** | M3 — State & Architecture |
+| **Assignment** | Assignment 3 |
+| **Track** | Flutter / Dart |
+| **Version** | 1.0.0+1 |
 
 ---
 
@@ -86,7 +96,7 @@ Favorites-flutter/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/COMP6970-MobileAppDev-Summer2026-AU/Assignment_3.git
-cd Favorites-flutter
+cd Assignment_3
 
 # 2. Install dependencies
 flutter pub get
@@ -147,8 +157,8 @@ The search bar on the Browse screen filters the currently selected category in r
 
 ```dart
 prov.books.where((b) =>
-    b.bookTitle.toLowerCase().contains(q) ||
-    b.bookAuthor.toLowerCase().contains(q))
+b.bookTitle.toLowerCase().contains(q) ||
+b.bookAuthor.toLowerCase().contains(q))
 ```
 
 ### ✅ Required Feature 6 — Settings & Dark Mode Persistence
