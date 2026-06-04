@@ -85,7 +85,7 @@ Favorites-flutter/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-repo>/Favorites-flutter.git
+git clone https://github.com/COMP6970-MobileAppDev-Summer2026-AU/Assignment_3.git
 cd Favorites-flutter
 
 # 2. Install dependencies
