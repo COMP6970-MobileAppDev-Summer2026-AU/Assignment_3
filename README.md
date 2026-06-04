@@ -1,4 +1,4 @@
-# 🌟 Favorite Explorer
+# Favorite Explorer - by Jahidul Arafat
 ### Assignment 3 — State & Architecture
 ### COMP 6970 — Mobile Applications Development
 
